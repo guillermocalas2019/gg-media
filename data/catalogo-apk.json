@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "store": {
+    "name": "G&G Tienda de Artículos Personalizados",
+    "address": "Calle Maceo #47, entre Céspedes y General García, Jiguaní, Granma, Cuba",
+    "hours": "Lunes a sábado, de 9:00 a. m. a 1:00 p. m.",
+    "whatsapp": "",
+    "facebook": "",
+    "whatsapp_message": "Hola, quisiera información sobre este producto."
+  },
+  "categories": [
+    {
+      "id": "CAT001",
+      "name": "Personalizados",
+      "order": 1
+    },
+    {
+      "id": "CAT002",
+      "name": "Impresión 3D",
+      "order": 2
+    },
+    {
+      "id": "CAT003",
+      "name": "Regalos",
+      "order": 3
+    },
+    {
+      "id": "CAT004",
+      "name": "Ofertas",
+      "order": 4
+    },
+    {
+      "id": "CAT005",
+      "name": "Miscelánea",
+      "order": 5
+    }
+  ],
+  "products": [
+    {
+      "code": "TAZ001",
+      "name": "Taza Blanca",
+      "category_id": "CAT001",
+      "description": "Taza de cerámica personalizable con foto, nombre o diseño especial.",
+      "price": 500.0,
+      "offer_price": null,
+      "offer_active": false,
+      "featured": true,
+      "status": "ACTIVE",
+      "order": 1,
+      "images": []
+    },
+    {
+      "code": "BOT001",
+      "name": "Botella personalizada",
+      "category_id": "CAT001",
+      "description": "Botella reutilizable con diseño personalizado para uso diario.",
+      "price": 850.0,
+      "offer_price": 750.0,
+      "offer_active": true,
+      "featured": true,
+      "status": "ACTIVE",
+      "order": 2,
+      "images": []
+    },
+    {
+      "code": "LLV001",
+      "name": "Llavero personalizado",
+      "category_id": "CAT001",
+      "description": "Llavero personalizado con nombre, imagen o mensaje corto.",
+      "price": 250.0,
+      "offer_price": null,
+      "offer_active": false,
+      "featured": false,
+      "status": "ACTIVE",
+      "order": 3,
+      "images": []
+    },
+    {
+      "code": "CAM001",
+      "name": "Camiseta personalizada",
+      "category_id": "CAT001",
+      "description": "Camiseta con impresión personalizada para regalos, eventos o uso personal.",
+      "price": 1200.0,
+      "offer_price": null,
+      "offer_active": false,
+      "featured": true,
+      "status": "ACTIVE",
+      "order": 4,
+      "images": []
+    },
+    {
+      "code": "FIG001",
+      "name": "Figura decorativa 3D",
+      "category_id": "CAT002",
+      "description": "Figura decorativa impresa en 3D. Diseño y color según disponibilidad.",
+      "price": 900.0,
+      "offer_price": null,
+      "offer_active": false,
+      "featured": false,
+      "status": "ACTIVE",
+      "order": 5,
+      "images": []
+    },
+    {
+      "code": "MAC001",
+      "name": "Maceta pequeña 3D",
+      "category_id": "CAT002",
+      "description": "Maceta decorativa impresa en 3D para plantas pequeñas.",
+      "price": 650.0,
+      "offer_price": 600.0,
+      "offer_active": true,
+      "featured": false,
+      "status": "ACTIVE",
+      "order": 6,
+      "images": []
+    },
+    {
+      "code": "REG001",
+      "name": "Caja de regalo",
+      "category_id": "CAT003",
+      "description": "Caja decorativa para presentar un regalo de forma especial.",
+      "price": 400.0,
+      "offer_price": null,
+      "offer_active": false,
+      "featured": true,
+      "status": "ACTIVE",
+      "order": 7,
+      "images": []
+    },
+    {
+      "code": "LLV002",
+      "name": "Llavero pruba de imágenes",
+      "category_id": "CAT003",
+      "description": "Llavero decorativo ideal como detalle para cumpleaños y celebraciones.",
+      "price": 300.0,
+      "offer_price": null,
+      "offer_active": false,
+      "featured": false,
+      "status": "ACTIVE",
+      "order": 8,
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002.jpg",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_02.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_03.webp"
+      ]
+    },
+    {
+      "code": "MIS001",
+      "name": "Soporte para teléfono",
+      "category_id": "CAT005",
+      "description": "Soporte compacto para colocar el teléfono sobre una mesa.",
+      "price": 550.0,
+      "offer_price": null,
+      "offer_active": false,
+      "featured": false,
+      "status": "ACTIVE",
+      "order": 9,
+      "images": []
+    },
+    {
+      "code": "TAZ002",
+      "name": "Taza mágica",
+      "category_id": "CAT001",
+      "description": "Taza semimate sensible al calor que revela el diseño al añadir una bebida caliente.",
+      "price": 700.0,
+      "offer_price": 620.0,
+      "offer_active": true,
+      "featured": true,
+      "status": "ACTIVE",
+      "order": 10,
+      "images": []
+    }
+  ]
+}
