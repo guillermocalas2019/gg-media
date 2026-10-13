@@ -141,29 +141,16 @@
       "images": []
     },
     {
-      "code": "CH001",
-      "name": "Chapilla Militar",
+      "code": "LMF001",
+      "name": "Láminas Fotográficas",
       "category_id": "CAT001",
-      "description": "Chapilla metalica imitaci{on militar para personaliuzar con fotos o imágenes",
-      "price": 800.0,
-      "offer_price": 600.0,
+      "description": "Láminas de aluminio formato 8x10 pulgadas estandar en la fotografía. Con un brillo exepcional y uso como portarretrato o reconocimientos para eventos.",
+      "price": 3500.0,
+      "offer_price": 2500.0,
       "offer_active": true,
       "featured": false,
       "status": "ACTIVE",
-      "order": 8,
-      "images": []
-    },
-    {
-      "code": "IM001",
-      "name": "Iman",
-      "category_id": "CAT001",
-      "description": "Iman impresos para superficies metalicas, como el refri de la casa",
-      "price": 500.0,
-      "offer_price": 300.0,
-      "offer_active": true,
-      "featured": false,
-      "status": "ACTIVE",
-      "order": 8,
+      "order": 7,
       "images": []
     },
     {
@@ -173,36 +160,6 @@
       "description": "Jarra Cervecera",
       "price": 6800.0,
       "offer_price": 5500.0,
-      "offer_active": true,
-      "featured": false,
-      "status": "ACTIVE",
-      "order": 8,
-      "images": []
-    },
-    {
-      "code": "LLV002",
-      "name": "Llavero MDF",
-      "category_id": "CAT001",
-      "description": "Llavero personalizado con nombre, imagen o mensaje corto. Varios formatos y tamaño a elegir.",
-      "price": 800.0,
-      "offer_price": 600.0,
-      "offer_active": true,
-      "featured": false,
-      "status": "ACTIVE",
-      "order": 8,
-      "images": [
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_02.webp",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_03.webp"
-      ]
-    },
-    {
-      "code": "LMF001",
-      "name": "Láminas Fotográficas",
-      "category_id": "CAT001",
-      "description": "Láminas de aluminio formato 8x10 pulgadas estandar en la fotografía. Con un brillo exepcional y uso como portarretrato o reconocimientos para eventos.",
-      "price": 3500.0,
-      "offer_price": 2500.0,
       "offer_active": true,
       "featured": false,
       "status": "ACTIVE",
@@ -223,12 +180,12 @@
       "images": []
     },
     {
-      "code": "PULL003",
-      "name": "Prenda del Cliente",
+      "code": "CH001",
+      "name": "Chapilla Militar",
       "category_id": "CAT001",
-      "description": "Puede traer a G&G su prenda y, si es posible, la personalizamos a su gusto con una gran variedad de diseños disponibles.",
-      "price": 1200.0,
-      "offer_price": 1000.0,
+      "description": "Chapilla metalica imitaci{on militar para personaliuzar con fotos o imágenes",
+      "price": 800.0,
+      "offer_price": 600.0,
       "offer_active": true,
       "featured": false,
       "status": "ACTIVE",
@@ -249,16 +206,46 @@
       "images": []
     },
     {
-      "code": "BOT001",
-      "name": "Botella Aluminio 500ml",
+      "code": "LLV002",
+      "name": "Llavero MDF",
       "category_id": "CAT001",
-      "description": "Botella reutilizable con diseño personalizado para uso diario.",
-      "price": 6500.0,
-      "offer_price": 4800.0,
+      "description": "Llavero personalizado con nombre, imagen o mensaje corto. Varios formatos y tamaño a elegir.",
+      "price": 800.0,
+      "offer_price": 600.0,
       "offer_active": true,
-      "featured": true,
+      "featured": false,
+      "status": "ACTIVE",
+      "order": 11,
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002.jpg",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_02.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_03.webp"
+      ]
+    },
+    {
+      "code": "IM001",
+      "name": "Iman",
+      "category_id": "CAT001",
+      "description": "Iman impresos para superficies metalicas, como el refri de la casa",
+      "price": 500.0,
+      "offer_price": 300.0,
+      "offer_active": true,
+      "featured": false,
       "status": "ACTIVE",
       "order": 15,
+      "images": []
+    },
+    {
+      "code": "PULL003",
+      "name": "Prenda del Cliente",
+      "category_id": "CAT001",
+      "description": "Puede traer a G&G su prenda y, si es posible, la personalizamos a su gusto con una gran variedad de diseños disponibles.",
+      "price": 1200.0,
+      "offer_price": 1000.0,
+      "offer_active": true,
+      "featured": false,
+      "status": "ACTIVE",
+      "order": 16,
       "images": []
     }
   ]
