@@ -53,14 +53,17 @@
       "code": "TAZ001",
       "name": "Taza Blanca",
       "category_id": "CAT001",
-      "description": "Taza de cerámica personalizable con foto, nombre o diseño especial.",
+      "description": "Taza blanca personalizada ideal para regalos, uso diario y diseños únicos.",
       "price": 3000.0,
       "offer_price": 2300.0,
       "offer_active": true,
       "featured": true,
       "status": "ACTIVE",
       "order": 1,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001.jpg",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_02.jpg"
+      ]
     },
     {
       "code": "TAZ002",
@@ -170,7 +173,7 @@
       "code": "BLS001",
       "name": "Bolsos Toté",
       "category_id": "CAT001",
-      "description": "Lona de alta calidad, permite personalizarlos con diseños únicos, convirtiéndolos en una opción ideal tanto para uso personal como para regalos o promociones.",
+      "description": "Bolsos de lienzo personalizables",
       "price": 3000.0,
       "offer_price": 2300.0,
       "offer_active": true,
@@ -218,8 +221,9 @@
       "order": 11,
       "images": [
         "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_02.webp",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_03.webp"
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_03.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_04.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_05.webp"
       ]
     },
     {
