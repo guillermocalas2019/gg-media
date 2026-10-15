@@ -28,7 +28,7 @@
       "name": "Regalos",
       "description": "Obsequios o conjunto de articulos listos para regalar",
       "order": 3,
-      "status": "ACTIVA"
+      "status": "INACTIVA"
     },
     {
       "id": "CAT004",
