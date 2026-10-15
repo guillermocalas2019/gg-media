@@ -10,32 +10,32 @@
   },
   "categories": [
     {
+      "id": "CAT004",
+      "name": "🔥Ofertas",
+      "description": "Sección especial que reúne productos con oferta activa; no es necesario duplicarlos.",
+      "order": 1,
+      "status": "ACTIVA"
+    },
+    {
       "id": "CAT001",
       "name": "Personalizados",
       "description": "Artículos personalizados a demanda de nuestros clientes",
-      "order": 1,
+      "order": 2,
       "status": "ACTIVA"
     },
     {
       "id": "CAT002",
       "name": "Impresión 3D",
       "description": "Objetos confeccionados mediante impresión 3D",
-      "order": 2,
+      "order": 3,
       "status": "ACTIVA"
     },
     {
       "id": "CAT003",
       "name": "Regalos",
       "description": "Obsequios o conjunto de articulos listos para regalar",
-      "order": 3,
-      "status": "INACTIVA"
-    },
-    {
-      "id": "CAT004",
-      "name": "🔥Ofertas",
-      "description": "Sección especial que reúne productos con oferta activa; no es necesario duplicarlos.",
       "order": 4,
-      "status": "ACTIVA"
+      "status": "INACTIVA"
     },
     {
       "id": "CAT005",
