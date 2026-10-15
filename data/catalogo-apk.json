@@ -32,7 +32,7 @@
     },
     {
       "id": "CAT004",
-      "name": "Ofertas",
+      "name": "🔥Ofertas",
       "description": "Sección especial que reúne productos con oferta activa; no es necesario duplicarlos.",
       "order": 4,
       "status": "ACTIVA"
@@ -40,8 +40,15 @@
     {
       "id": "CAT005",
       "name": "Miscelánea",
-      "description": "Productos que no encajan en las demás categorías.",
+      "description": "Prductos no personalizados, en venta en nuestra Tienda G&G.",
       "order": 5,
+      "status": "ACTIVA"
+    },
+    {
+      "id": "CAT006",
+      "name": "Energía Renovable",
+      "description": "Equipamiento de sistemas fotovoltáicos, estaciones de energia y complementos.",
+      "order": 6,
       "status": "ACTIVA"
     }
   ],
