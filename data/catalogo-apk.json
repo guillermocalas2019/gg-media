@@ -12,27 +12,37 @@
     {
       "id": "CAT001",
       "name": "Personalizados",
-      "order": 1
+      "description": "Artículos personalizados a demanda de nuestros clientes",
+      "order": 1,
+      "status": "ACTIVA"
     },
     {
       "id": "CAT002",
       "name": "Impresión 3D",
-      "order": 2
+      "description": "Objetos confeccionados mediante impresión 3D",
+      "order": 2,
+      "status": "ACTIVA"
     },
     {
       "id": "CAT003",
       "name": "Regalos",
-      "order": 3
+      "description": "Obsequios o conjunto de articulos listos para regalar",
+      "order": 3,
+      "status": "ACTIVA"
     },
     {
       "id": "CAT004",
       "name": "Ofertas",
-      "order": 4
+      "description": "Sección especial que reúne productos con oferta activa; no es necesario duplicarlos.",
+      "order": 4,
+      "status": "ACTIVA"
     },
     {
       "id": "CAT005",
       "name": "Miscelánea",
-      "order": 5
+      "description": "Productos que no encajan en las demás categorías.",
+      "order": 5,
+      "status": "ACTIVA"
     }
   ],
   "products": [
