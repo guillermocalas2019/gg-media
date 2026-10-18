@@ -14,7 +14,7 @@
       "name": "🔥Ofertas",
       "description": "Sección especial que reúne productos con oferta activa; no es necesario duplicarlos.",
       "order": 1,
-      "status": "ACTIVA"
+      "status": "INACTIVA"
     },
     {
       "id": "CAT001",
@@ -24,9 +24,9 @@
       "status": "ACTIVA"
     },
     {
-      "id": "CAT002",
-      "name": "Impresión 3D",
-      "description": "Objetos confeccionados mediante impresión 3D",
+      "id": "CAT005",
+      "name": "En Venta",
+      "description": "Productos listos, disponibles a la venta y en existencia en nuestra Tienda G&G.",
       "order": 3,
       "status": "ACTIVA"
     },
@@ -38,9 +38,9 @@
       "status": "INACTIVA"
     },
     {
-      "id": "CAT005",
-      "name": "Miscelánea",
-      "description": "Prductos no personalizados, en venta en nuestra Tienda G&G.",
+      "id": "CAT002",
+      "name": "Impresión 3D",
+      "description": "Objetos confeccionados mediante impresión 3D",
       "order": 5,
       "status": "ACTIVA"
     },
@@ -56,13 +56,6 @@
       "name": "Tecnología",
       "description": "Equipos y componentes electrónicos",
       "order": 7,
-      "status": "ACTIVA"
-    },
-    {
-      "id": "CAT008",
-      "name": "Tecnología",
-      "description": "Equipos y componentes electrónicos",
-      "order": 8,
       "status": "ACTIVA"
     }
   ],
@@ -95,7 +88,8 @@
       "order": 1,
       "images": [
         "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001.webp",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_02.webp"
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_02.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_03.webp"
       ]
     },
     {
@@ -193,7 +187,7 @@
       "order": 6,
       "images": [
         "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LS001.webp",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LS001_02.webp"
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LS001_03.webp"
       ]
     },
     {
@@ -320,6 +314,20 @@
       "featured": false,
       "status": "ACTIVE",
       "order": 16,
+      "images": []
+    },
+    {
+      "code": "VENTA001",
+      "name": "Taza Real Madrid",
+      "category_id": "CAT005",
+      "description": "Productos listos para la venta",
+      "long_description": "Llegar y Comprar: Producto disponible a la venta y en existencia en nuestra Tienda G&G.",
+      "price": 3000.0,
+      "offer_price": 2000.0,
+      "offer_active": true,
+      "featured": false,
+      "status": "ACTIVE",
+      "order": 50,
       "images": []
     }
   ]
