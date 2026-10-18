@@ -172,7 +172,7 @@
       "price": 2500.0,
       "offer_price": 2000.0,
       "offer_active": true,
-      "featured": false,
+      "featured": true,
       "status": "ACTIVE",
       "order": 5,
       "images": [
@@ -188,7 +188,7 @@
       "price": 4500.0,
       "offer_price": 3500.0,
       "offer_active": true,
-      "featured": false,
+      "featured": true,
       "status": "ACTIVE",
       "order": 6,
       "images": [
@@ -269,7 +269,7 @@
       "price": 3500.0,
       "offer_price": 2700.0,
       "offer_active": true,
-      "featured": true,
+      "featured": false,
       "status": "ACTIVE",
       "order": 10,
       "images": [
