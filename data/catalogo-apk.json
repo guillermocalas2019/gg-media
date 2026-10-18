@@ -19,7 +19,7 @@
     {
       "id": "CAT001",
       "name": "🎨 Personalizados",
-      "description": "Artículos personalizados a demanda de nuestros clientes",
+      "description": "Servicio de personalización de artículos a gusto de nuestros clientes",
       "order": 2,
       "status": "ACTIVA"
     },
@@ -57,6 +57,13 @@
       "description": "Equipos y componentes electrónicos",
       "order": 7,
       "status": "ACTIVA"
+    },
+    {
+      "id": "CAT008",
+      "name": "Tecnología",
+      "description": "Equipos y componentes electrónicos",
+      "order": 8,
+      "status": "ACTIVA"
     }
   ],
   "products": [
@@ -86,18 +93,7 @@
       "featured": true,
       "status": "ACTIVE",
       "order": 1,
-      "images": [
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_02.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_03.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_04.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_05.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_06.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_07.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_08.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_09.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_10.jpg"
-      ]
+      "images": []
     },
     {
       "code": "TAZ002",
@@ -167,7 +163,9 @@
       "featured": false,
       "status": "ACTIVE",
       "order": 5,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/GRR001.png"
+      ]
     },
     {
       "code": "LS001",
@@ -223,7 +221,9 @@
       "featured": false,
       "status": "ACTIVE",
       "order": 9,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BLS001.png"
+      ]
     },
     {
       "code": "CH001",
@@ -265,13 +265,7 @@
       "featured": false,
       "status": "ACTIVE",
       "order": 11,
-      "images": [
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002.jpg",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_02.webp",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_03.webp",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_04.webp",
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002_05.webp"
-      ]
+      "images": []
     },
     {
       "code": "IM001",
