@@ -93,7 +93,10 @@
       "featured": true,
       "status": "ACTIVE",
       "order": 1,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ001_02.webp"
+      ]
     },
     {
       "code": "TAZ002",
@@ -107,7 +110,9 @@
       "featured": true,
       "status": "ACTIVE",
       "order": 2,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ002.webp"
+      ]
     },
     {
       "code": "3D004",
@@ -135,7 +140,11 @@
       "featured": true,
       "status": "ACTIVE",
       "order": 3,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/PULL001.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/PULL001_02.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/PULL001_03.webp"
+      ]
     },
     {
       "code": "PULL002",
@@ -149,7 +158,10 @@
       "featured": true,
       "status": "ACTIVE",
       "order": 4,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/PULL002.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/PULL002_02.webp"
+      ]
     },
     {
       "code": "GRR001",
@@ -164,7 +176,7 @@
       "status": "ACTIVE",
       "order": 5,
       "images": [
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/GRR001.png"
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/GRR001.webp"
       ]
     },
     {
@@ -179,7 +191,10 @@
       "featured": false,
       "status": "ACTIVE",
       "order": 6,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LS001.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LS001_02.webp"
+      ]
     },
     {
       "code": "LMF001",
@@ -193,7 +208,9 @@
       "featured": false,
       "status": "ACTIVE",
       "order": 7,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LMF001.webp"
+      ]
     },
     {
       "code": "JRC001",
@@ -207,7 +224,9 @@
       "featured": false,
       "status": "ACTIVE",
       "order": 8,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/JRC001.webp"
+      ]
     },
     {
       "code": "BLS001",
@@ -222,7 +241,7 @@
       "status": "ACTIVE",
       "order": 9,
       "images": [
-        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BLS001.png"
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BLS001.webp"
       ]
     },
     {
@@ -237,7 +256,9 @@
       "featured": false,
       "status": "ACTIVE",
       "order": 10,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/CH001.webp"
+      ]
     },
     {
       "code": "TAZ003",
@@ -251,7 +272,9 @@
       "featured": true,
       "status": "ACTIVE",
       "order": 10,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/TAZ003.webp"
+      ]
     },
     {
       "code": "LLV002",
@@ -265,7 +288,9 @@
       "featured": false,
       "status": "ACTIVE",
       "order": 11,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/LLV002.webp"
+      ]
     },
     {
       "code": "IM001",
@@ -279,7 +304,9 @@
       "featured": false,
       "status": "ACTIVE",
       "order": 15,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/IM001.webp"
+      ]
     },
     {
       "code": "PULL003",
