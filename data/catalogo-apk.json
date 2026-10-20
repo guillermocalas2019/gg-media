@@ -315,6 +315,48 @@
       "status": "ACTIVE",
       "order": 16,
       "images": []
+    },
+    {
+      "code": "VENTA001",
+      "name": "Taza Real Madrid",
+      "category_id": "CAT005",
+      "description": "Productos listos para la venta",
+      "long_description": "Llegar y Comprar: Producto disponible a la venta y en existencia en nuestra Tienda G&G.",
+      "price": 3000.0,
+      "offer_price": 2000.0,
+      "offer_active": true,
+      "featured": false,
+      "status": "ACTIVE",
+      "order": 50,
+      "images": []
+    },
+    {
+      "code": "VENTA002",
+      "name": "Taza Bucanero",
+      "category_id": "CAT005",
+      "description": "",
+      "long_description": "",
+      "price": 2000.0,
+      "offer_price": null,
+      "offer_active": false,
+      "featured": false,
+      "status": "ACTIVE",
+      "order": 999,
+      "images": []
+    },
+    {
+      "code": "VENTA003",
+      "name": "Taza Cristal",
+      "category_id": "CAT005",
+      "description": "",
+      "long_description": "",
+      "price": 2000.0,
+      "offer_price": null,
+      "offer_active": false,
+      "featured": false,
+      "status": "ACTIVE",
+      "order": 999,
+      "images": []
     }
   ]
 }
