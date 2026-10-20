@@ -315,20 +315,6 @@
       "status": "ACTIVE",
       "order": 16,
       "images": []
-    },
-    {
-      "code": "VENTA001",
-      "name": "Taza Real Madrid",
-      "category_id": "CAT005",
-      "description": "Productos listos para la venta",
-      "long_description": "Llegar y Comprar: Producto disponible a la venta y en existencia en nuestra Tienda G&G.",
-      "price": 3000.0,
-      "offer_price": 2000.0,
-      "offer_active": true,
-      "featured": false,
-      "status": "ACTIVE",
-      "order": 50,
-      "images": []
     }
   ]
 }
