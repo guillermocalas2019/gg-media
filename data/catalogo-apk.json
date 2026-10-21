@@ -449,7 +449,7 @@
       "offer_price": null,
       "offer_active": false,
       "currency": "CUP",
-      "sold_out": false,
+      "sold_out": true,
       "reference": null,
       "featured": false,
       "status": "ACTIVE",
