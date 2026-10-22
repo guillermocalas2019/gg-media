@@ -360,6 +360,33 @@
       "images": []
     },
     {
+      "code": "BOT001",
+      "name": "Botella Aluminio 500ml",
+      "category_id": "SERV001",
+      "description": "Botellade Aluminio personalizada, ligera y resistente.",
+      "long_description": "La botella blanca de aluminio de 500 ml personalizada es perfecta para quienes buscan un accesorio práctico, moderno y totalmente único. Su acabado blanco brillo enriquece el diseño, desde nombres y logos hasta ilustraciones y frases motivadoras, convirtiéndola en una opción ideal para el gimnasio, la oficina, la escuela o actividades al aire libre. Es ligera, resistente y mantiene tus bebidas frescas por más tiempo, combinando funcionalidad con estilo.\n\n✨ Acabado blanco mate: Elegante y perfecto para destacar la personalización.\n\n🎨 Personalización completa: Nombres, logos, frases, ilustraciones y diseños especiales.\n\n🧴 Capacidad de 500 ml: Tamaño ideal para hidratación diaria.\n\n🛡️ Material resistente: Aluminio ligero, duradero y fácil de transportar.\n\n🚶 Uso versátil: Deportes, trabajo, escuela, viajes y actividades al aire libre.\n\n🛠️ Impresión de alta calidad: Colores nítidos y duraderos sobre la superficie mate.\n\n💧 Tapas disponibles: Rosca o deportiva según disponibilidad.",
+      "price": 6500.0,
+      "offer_price": 4800.0,
+      "offer_active": true,
+      "currency": "CUP",
+      "sold_out": false,
+      "reference": null,
+      "featured": true,
+      "status": "ACTIVE",
+      "order": 14,
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BOT001.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BOT001_02.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BOT001_04.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BOT001_05.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BOT001_06.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BOT001_07.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BOT001_08.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BOT001_09.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/BOT001_10.webp"
+      ]
+    },
+    {
       "code": "IM001",
       "name": "Iman",
       "category_id": "SERV001",
