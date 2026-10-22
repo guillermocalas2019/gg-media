@@ -357,7 +357,13 @@
       "featured": true,
       "status": "ACTIVE",
       "order": 12,
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/IMP3D.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/IMP3D_02.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/IMP3D_04.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/IMP3D_05.webp",
+        "https://raw.githubusercontent.com/guillermocalas2019/gg-media/main/imagenes/IMP3D_06.webp"
+      ]
     },
     {
       "code": "BOT001",
@@ -423,7 +429,7 @@
       "images": []
     },
     {
-      "code": "VENTA001",
+      "code": "TAZ101",
       "name": "Taza Real Madrid",
       "category_id": "CAT005",
       "description": "Productos listos para la venta",
@@ -440,7 +446,7 @@
       "images": []
     },
     {
-      "code": "VENTA002",
+      "code": "TAZ102",
       "name": "Taza Cerveza Bucanero",
       "category_id": "CAT005",
       "description": "Productos listos para la venta",
@@ -457,7 +463,7 @@
       "images": []
     },
     {
-      "code": "VENTA003",
+      "code": "TAZ103",
       "name": "Taza Cerveza Cristal",
       "category_id": "CAT005",
       "description": "Productos listos para la venta",
