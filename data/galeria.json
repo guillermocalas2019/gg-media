@@ -60,6 +60,78 @@
       "image": "IMG_1618.webp",
       "section": "TIENDA",
       "aspect_ratio": 1.33333
+    },
+    {
+      "id": "GCAF3625BF255FC5E38",
+      "image": "gg-01-tazas.png",
+      "section": "IDEAS",
+      "aspect_ratio": 0.73171
+    },
+    {
+      "id": "GB53EF027742E4D7969",
+      "image": "gg-02-botellas.png",
+      "section": "IDEAS",
+      "aspect_ratio": 1.0
+    },
+    {
+      "id": "G2F03DAE695CF1FDA40",
+      "image": "gg-03-local.png",
+      "section": "IDEAS",
+      "aspect_ratio": 0.72581
+    },
+    {
+      "id": "GD150FDB110E5AC62DC",
+      "image": "gg-04-playeras.png",
+      "section": "IDEAS",
+      "aspect_ratio": 0.78947
+    },
+    {
+      "id": "GB956D2B6A784585E5E",
+      "image": "gg-05-azulejos.png",
+      "section": "IDEAS",
+      "aspect_ratio": 1.0
+    },
+    {
+      "id": "GB3E8058AF3C5F0A1CB",
+      "image": "gg-06-bolsos.png",
+      "section": "IDEAS",
+      "aspect_ratio": 0.73333
+    },
+    {
+      "id": "GBB9F20F3A074E443E6",
+      "image": "gg-07-impresion3d.png",
+      "section": "IDEAS",
+      "aspect_ratio": 0.70312
+    },
+    {
+      "id": "G4F62472A14E78170B6",
+      "image": "gg-08-regalos.png",
+      "section": "IDEAS",
+      "aspect_ratio": 1.0
+    },
+    {
+      "id": "G1A27A220045964C932",
+      "image": "gg-09-jarras.png",
+      "section": "IDEAS",
+      "aspect_ratio": 0.72581
+    },
+    {
+      "id": "GF57311D5EFD0E13947",
+      "image": "gg-10-amor.png",
+      "section": "IDEAS",
+      "aspect_ratio": 0.80357
+    },
+    {
+      "id": "G74CBDBB6A04AF3A42D",
+      "image": "gg-11-llaveros.png",
+      "section": "IDEAS",
+      "aspect_ratio": 1.0
+    },
+    {
+      "id": "G566F9D08321A620D17",
+      "image": "gg-12-combinacion.png",
+      "section": "IDEAS",
+      "aspect_ratio": 0.72
     }
   ]
 }
